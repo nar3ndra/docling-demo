@@ -1,0 +1,14 @@
+.venv
+.env
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+*.egg-info/
+
+# Chroma
+chroma_db/
+docling/
